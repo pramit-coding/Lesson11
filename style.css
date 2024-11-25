@@ -1,0 +1,12 @@
+body {
+    color: rgb(0, 115, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(31, 81, 2);
+    font-size: 10px;
+
+background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #e5e5f7 10px), repeating-linear-gradient(#dcf74455, #f7d044);
+
+
+}
